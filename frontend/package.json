@@ -1,0 +1,68 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@iconify/react": "^4.0.0",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.10.4",
+    "@mui/x-data-grid": "^5.17.2",
+    "@mui/x-data-grid-generator": "^5.17.2",
+    "@mui/x-date-pickers": "^5.0.0-beta.3",
+    "@stripe/react-stripe-js": "^1.10.0",
+    "@stripe/stripe-js": "^1.36.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "apexcharts": "^3.35.3",
+    "axios": "^0.27.2",
+    "chart.js": "^3.8.0",
+    "d3": "^7.4.5",
+    "date-fns": "^2.29.1",
+    "firebase": "^9.8.4",
+    "moment": "^2.29.4",
+    "numeral": "^2.0.6",
+    "plotly.js": "^2.12.1",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-chartjs-2": "^4.2.0",
+    "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.0.3",
+    "react-infinite-scroller": "^1.2.6",
+    "react-markdown": "^8.0.3",
+    "react-plotly.js": "^2.5.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-window": "^1.8.7",
+    "recharts": "^2.1.12",
+    "simplebar-react": "^2.4.1",
+    "sunburst-chart": "^1.16.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
